@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.activiti:activiti-modeler:5.22.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.activiti/activiti-modeler/5.22.0/22810cac1a914ba38431aaed15e11df4027be609/activiti-modeler-5.22.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.activiti/activiti-modeler/5.22.0/d5776cbe5dda3143c53f473642d97c9460f4796/activiti-modeler-5.22.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
